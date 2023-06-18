@@ -365,6 +365,14 @@ header .navbar ul li a:hover {
     color: var(--yellow);
 }
 
+.top {
+    position: fixed;
+    bottom: 1rem;
+    right: 0.5rem;
+    z-index: 100;
+    display: none;
+}
+
 
 /*media queries*/
 
